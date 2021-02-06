@@ -11,12 +11,18 @@ mainpitch:
     железяки.
 description: Уникальные обзоры.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/htb1dmpgofxxxxx0xxxxq6xxfxxxv.jpg
+      text: raspberry pi 4 и интересные проекты.
+    - image: /img/htb1dmpgofxxxxx0xxxxq6xxfxxxv.jpg
+      text: Самодельный ssd из sd карточек
+    - image: /img/19-116-189-04.jpg
+      text: И великие процессоры EXTREEM edition
   heading: это еще не все!
   description: print ("hello my friend")
 main:
   heading: мы еще не достроили лэндинг, извините.
-  description: "\n"
+  description: ха
   image1:
     alt: RASPBERRY PI
     image: /img/156.png
